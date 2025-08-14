@@ -10,10 +10,16 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
+    "dayjs": "^1.11.13",
     "dotenv": "^16.4.5",
+    "escpos": "^3.0.0-alpha.6",
+    "escpos-usb": "^3.0.0-alpha.4",
     "express": "^4.19.2",
     "jsonwebtoken": "^9.0.2",
     "mysql2": "^3.9.7",
+    "pdfkit": "^0.17.1",
+    "puppeteer": "^24.16.1",
+    "qrcode": "^1.5.4",
     "uuid": "^9.0.1",
     "zod": "^3.23.8"
   }
